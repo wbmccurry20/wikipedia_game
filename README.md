@@ -10,3 +10,4 @@
 ## Setup:
   1. Ensure installs are on your system
   2. Use jupyter Notebook to run the program
+  3. Enter the exact Title of the Wikipedia page when choosing start page and finish goal page.

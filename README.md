@@ -1,4 +1,4 @@
-# wikipedia_game.py
+# wikipedia_game
 
 ## Requirements: 
   1. Python3
